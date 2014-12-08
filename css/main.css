@@ -1,0 +1,59 @@
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+body {
+	padding: 0;
+	background: rgb(174, 0, 17);
+}
+
+.huge-container {
+	background: #F7F7F7;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.promo-tile {
+	margin-top: 20px; 
+	padding: 0;
+}
+
+.inner-promo-tile {
+	background: #E8E8E8;
+	margin: 0 10px;
+	padding: 10px;
+	border: 2px solid #4B4B4B;
+	box-shadow: 10px 10px 5px #888888;
+}
+
+.page-header {
+	height: 150px;
+	background: url('../img/logo_utcn.png') center no-repeat;
+}
+
+#slide-1 {
+	background: url('../img/utcn1.jpg') center no-repeat;
+	min-height: 250px;
+}
+
+#slide-2 {
+	background: url('../img/utcn2.jpg') center no-repeat;
+	min-height: 250px;
+}
+
+#slide-3 {
+	background: url('../img/utcn3.jpg') center no-repeat;
+	min-height: 250px;
+}
+
+.banner {
+    position: relative;
+    overflow: auto;
+    min-height: 250px;
+}
+.banner li {
+    list-style: none;
+}
+.banner ul li {
+    float: left;
+}

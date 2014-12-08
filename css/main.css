@@ -49,6 +49,7 @@ body {
 .banner {
     position: relative;
     overflow: auto;
+    height: 250px;
     min-height: 250px;
 }
 .banner li {
